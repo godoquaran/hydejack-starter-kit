@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Programmer - Web Developer - Entrepreneur
 
 # A list of keywords for your blog
 keywords:              []
@@ -46,6 +46,11 @@ author:
   email:               godoquaran@gmail.com
   # # Used by `jekyll-seo-tag`:
   twitter:             godoqr75
+  social:
+    twitter:           godoqr75
+    github:            godoquaran
+    linkedin:          juliolomas
+    email:             godoquaran@gmail.com
 
 # Add links to the sidebar.
 menu:

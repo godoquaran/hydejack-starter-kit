@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Example Content
+author: jlomasc
 description: >
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 sitemap: false
@@ -55,6 +56,20 @@ var adder = new Function("a", "b", "return a + b");
 // Call the function
 adder(2, 6);
 // > 8
+~~~
+
+~~~c
+#include <stdio.h>
+
+int main(void)
+{
+	printf("Hello World!");
+	return 0;
+}
+~~~
+
+~~~python
+print ("Hello World!")
 ~~~
 
 ## Lists
