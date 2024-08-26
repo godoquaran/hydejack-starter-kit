@@ -20,7 +20,8 @@ jlomasc:
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            /assets/img/jlomasc.jpg #https://via.placeholder.com/128x128
-      2x:            https://via.placeholder.com/256x256
+      2x:            /assets/img/jlomasc@2x.jpg
+      #https://via.placeholder.com/256x256
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
@@ -30,16 +31,16 @@ jlomasc:
     github:          godoquaran
     email:           godoquaran@gmail.com
     # rss:             https://<url>/feed.xml
-    facebook:        godoqr75
+    # facebook:        godoqr75
     # google:          <number>
     # vk:              <username>
-    youtube:         UCewEur83SfjCyTAX8UfBPwQ
+    # youtube:         UCewEur83SfjCyTAX8UfBPwQ
     # vimeo:           <username>
     # vine:            <username>
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    instagram:       godoqr75
+    # instagram:       godoqr75
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>

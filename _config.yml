@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Programmer - Web Developer - Entrepreneur
+tagline:               Programmer & Web Developer
 
 # A list of keywords for your blog
 keywords:              []
@@ -38,6 +38,7 @@ keywords:              []
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
 logo:                  /assets/img/logo.png
+favicon:               /favicon.ico
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -58,6 +59,10 @@ menu:
     url:               /example/
   - title:             Documentation
     url:               /docs/
+  - title:             Portafolio
+    url:               /projects/
+  - title:             Blog
+    url:               /blog/
   - title:             About
     url:               /about/
 
@@ -339,6 +344,7 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-include-cache
   - jekyll-last-modified-at
+  - jekyll-avatar
 
 
 # SEO Tag

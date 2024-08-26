@@ -58,6 +58,8 @@ adder(2, 6);
 // > 8
 ~~~
 
+### C code
+
 ~~~c
 #include <stdio.h>
 
@@ -67,6 +69,8 @@ int main(void)
 	return 0;
 }
 ~~~
+
+### Python code
 
 ~~~python
 print ("Hello World!")
