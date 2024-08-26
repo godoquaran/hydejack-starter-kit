@@ -11,6 +11,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.1"
 gem "ffi", "< 1.17.0"
 gem "jekyll-theme-hydejack", "~> 9.1"
+gem install google-protobuf -v 3.25.3
 
 # IMPORTANT: The followign gem is used to compile math formulas to 
 # KaTeX during site building.
