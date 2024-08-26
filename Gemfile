@@ -12,6 +12,7 @@ gem "jekyll", "~> 4.1"
 gem "ffi", "< 1.17.0"
 gem "jekyll-theme-hydejack", "~> 9.1"
 gem "google-protobuf", "3.25.3"
+gem "sass-embedded", "1.54"
 
 # IMPORTANT: The followign gem is used to compile math formulas to 
 # KaTeX during site building.
